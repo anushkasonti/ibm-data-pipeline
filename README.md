@@ -1,7 +1,7 @@
-**Project Overview: **
+**Project Overview:**
 This project is the end-to-end process of data ingestion, transformation, and loading into IBM Db2 with a Change Data Capture (CDC) process to manage regular updates.
 
-**Features: **
+**Features:**
 - Data Ingestion: Extracted raw data from CSV files stored in IBM Cloud Object Storage.
 - Data Transformation: Cleaned and formatted the data using Db2 SQL queries on the IBM Data Engine platform.
 - Data Loading: Loaded the transformed data into Db2 tables.
