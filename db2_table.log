@@ -1,0 +1,534 @@
+2024-02-01 20:01:40,669 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-01 20:01:46,945 Data Load Data loaded into Db2
+2024-02-01 20:01:48,603 ACTIVE 2
+2024-02-01 20:02:17,574 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-01 20:02:27,364 Data Load Data loaded into Db2
+2024-02-01 20:02:29,581 CLOSED 2
+2024-02-02 00:01:30,271 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-02 00:01:42,020 Data Load Data loaded into Db2
+2024-02-02 00:01:43,768 ACTIVE 2
+2024-02-02 00:02:18,784 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-02 00:02:29,186 Data Load Data loaded into Db2
+2024-02-02 00:02:31,605 CLOSED 2
+2024-02-02 07:10:24,967 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-02 07:10:30,457 Data Load Data loaded into Db2
+2024-02-02 07:10:32,212 ACTIVE 2
+2024-02-02 07:10:55,466 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-02 07:11:04,723 Data Load Data loaded into Db2
+2024-02-02 07:11:07,038 CLOSED 2
+2024-02-02 07:39:52,821 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-02 07:39:59,677 Data Load Data loaded into Db2
+2024-02-02 07:40:01,479 ACTIVE 2
+2024-02-02 07:40:27,569 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-02 07:40:37,113 Data Load Data loaded into Db2
+2024-02-02 07:40:39,316 CLOSED 2
+2024-02-02 07:43:20,160 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-02 07:43:26,354 Data Load Data loaded into Db2
+2024-02-02 07:43:27,242 ACTIVE 2
+2024-02-02 07:44:09,589 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-02 07:44:19,443 Data Load Data loaded into Db2
+2024-02-02 07:44:20,311 CLOSED 2
+2024-02-02 07:44:30,683 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-02 07:44:34,268 Data Load Data loaded into Db2
+2024-02-02 07:44:35,164 DIM_ACTIVE 0
+2024-02-02 07:49:08,886 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-02 07:49:13,403 Data Load Data loaded into Db2
+2024-02-02 07:49:15,148 ACTIVE 2
+2024-02-02 07:49:34,812 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-02 07:49:44,023 Data Load Data loaded into Db2
+2024-02-02 07:49:46,138 CLOSED 2
+2024-02-02 07:49:59,955 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-02 07:50:02,574 Data Load Data loaded into Db2
+2024-02-02 07:50:03,449 DIM_ACTIVE 0
+2024-02-02 07:50:44,411 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-02 07:50:47,981 Data Load Data loaded into Db2
+2024-02-02 07:50:48,890 DIM_ACTIVE 0
+2024-02-02 08:49:15,124 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-02 08:49:20,967 Data Load Data loaded into Db2
+2024-02-02 08:49:22,686 ACTIVE 2
+2024-02-02 08:49:42,541 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-02 08:49:56,555 Data Load Data loaded into Db2
+2024-02-02 08:49:59,550 CLOSED 2
+2024-02-02 08:50:10,854 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-02 08:50:14,800 Data Load Data loaded into Db2
+2024-02-02 08:50:15,688 DIM_ACTIVE 0
+2024-02-02 08:50:52,875 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-02 08:50:56,587 Data Load Data loaded into Db2
+2024-02-02 08:50:57,464 DIM_ACTIVE 0
+2024-02-02 08:58:27,628 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-02 08:58:33,599 Data Load Data loaded into Db2
+2024-02-02 08:58:35,345 ACTIVE 2
+2024-02-02 08:59:20,842 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-02 08:59:28,913 Data Load Data loaded into Db2
+2024-02-02 08:59:31,332 CLOSED 2
+2024-02-02 08:59:45,584 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-02 08:59:49,150 Data Load Data loaded into Db2
+2024-02-02 08:59:50,085 DIM_ACTIVE 0
+2024-02-02 09:12:04,392 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-02 09:12:10,539 Data Load Data loaded into Db2
+2024-02-02 09:12:12,142 ACTIVE 2
+2024-02-02 09:12:32,958 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-02 09:12:41,349 Data Load Data loaded into Db2
+2024-02-02 09:12:43,616 CLOSED 2
+2024-02-02 09:16:22,027 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-02 09:16:24,212 Data Load Data loaded into Db2
+2024-02-02 09:16:25,174 DIM_ACTIVE 0
+2024-02-02 09:20:32,493 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-02 09:20:34,945 Data Load Data loaded into Db2
+2024-02-02 09:20:35,853 DIM_ACTIVE 2
+2024-02-02 18:29:18,427 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-02 18:29:23,907 Data Load Data loaded into Db2
+2024-02-02 18:29:26,177 ACTIVE 2
+2024-02-02 18:29:48,810 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-02 18:29:59,285 Data Load Data loaded into Db2
+2024-02-02 18:30:01,479 CLOSED 2
+2024-02-02 18:30:15,633 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-02 18:30:18,418 Data Load Data loaded into Db2
+2024-02-02 18:30:19,335 DIM_ACTIVE 0
+2024-02-02 18:34:22,736 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-02 18:34:30,212 Data Load Data loaded into Db2
+2024-02-02 18:34:31,119 DIM_ACTIVE 0
+2024-02-02 19:11:35,234 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-02 19:11:42,020 Data Load Data loaded into Db2
+2024-02-02 19:11:43,705 ACTIVE 2
+2024-02-02 19:12:05,945 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-02 19:12:15,112 Data Load Data loaded into Db2
+2024-02-02 19:12:17,296 CLOSED 2
+2024-02-02 19:12:31,162 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-02 19:12:34,754 Data Load Data loaded into Db2
+2024-02-02 19:12:35,623 DIM_ACTIVE 0
+2024-02-02 19:13:27,291 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-02 19:13:31,331 Data Load Data loaded into Db2
+2024-02-02 19:13:32,290 DIM_ACTIVE 0
+2024-02-02 19:26:08,861 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-02 19:26:15,183 Data Load Data loaded into Db2
+2024-02-02 19:26:16,820 ACTIVE 2
+2024-02-02 19:26:39,127 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-02 19:26:48,440 Data Load Data loaded into Db2
+2024-02-02 19:26:50,545 CLOSED 2
+2024-02-02 19:27:01,094 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-02 19:27:04,502 Data Load Data loaded into Db2
+2024-02-02 19:27:05,296 DIM_ACTIVE 0
+2024-02-02 19:28:20,342 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-02 19:28:23,646 Data Load Data loaded into Db2
+2024-02-02 19:28:24,439 DIM_ACTIVE 0
+2024-02-02 19:47:38,776 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-02 19:47:43,415 Data Load Data loaded into Db2
+2024-02-02 19:47:45,043 ACTIVE 2
+2024-02-02 19:48:29,125 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-02 19:48:38,826 Data Load Data loaded into Db2
+2024-02-02 19:48:40,959 CLOSED 2
+2024-02-02 19:48:54,512 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-02 19:48:57,912 Data Load Data loaded into Db2
+2024-02-02 19:48:58,750 DIM_ACTIVE 0
+2024-02-02 19:53:01,697 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-02 19:53:05,699 Data Load Data loaded into Db2
+2024-02-02 19:53:06,488 DIM_ACTIVE 0
+2024-02-02 19:57:08,308 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-02 19:57:13,730 Data Load Data loaded into Db2
+2024-02-02 19:57:15,362 ACTIVE 2
+2024-02-02 19:57:35,485 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-02 19:57:43,125 Data Load Data loaded into Db2
+2024-02-02 19:57:45,284 CLOSED 2
+2024-02-02 19:57:58,630 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-02 19:58:02,287 Data Load Data loaded into Db2
+2024-02-02 19:58:03,151 DIM_ACTIVE 2
+2024-02-02 19:58:52,366 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-02 19:58:56,077 Data Load Data loaded into Db2
+2024-02-02 19:58:56,949 DIM_ACTIVE 2
+2024-02-03 10:37:11,805 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-03 10:37:23,458 Data Load Data loaded into Db2
+2024-02-03 10:37:25,226 ACTIVE 2
+2024-02-03 10:41:08,521 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-03 10:41:21,673 Data Load Data loaded into Db2
+2024-02-03 10:41:23,776 CLOSED 2
+2024-02-03 10:41:37,849 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-03 10:41:41,466 Data Load Data loaded into Db2
+2024-02-03 10:41:42,379 DIM_ACTIVE 2
+2024-02-03 10:42:45,963 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-03 10:42:49,591 Data Load Data loaded into Db2
+2024-02-03 10:42:50,769 DIM_ACTIVE 2
+2024-02-03 10:58:16,973 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-03 10:58:25,735 Data Load Data loaded into Db2
+2024-02-03 10:58:27,434 ACTIVE 2
+2024-02-03 10:58:47,280 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-03 10:58:59,238 Data Load Data loaded into Db2
+2024-02-03 10:59:01,525 CLOSED 2
+2024-02-03 10:59:12,195 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-03 10:59:15,989 Data Load Data loaded into Db2
+2024-02-03 10:59:16,842 DIM_ACTIVE 2
+2024-02-03 11:00:19,913 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-03 11:00:24,395 Data Load Data loaded into Db2
+2024-02-03 11:00:25,232 DIM_ACTIVE 2
+2024-02-03 11:10:23,562 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-03 11:10:30,545 Data Load Data loaded into Db2
+2024-02-03 11:10:32,131 ACTIVE 2
+2024-02-03 11:10:55,705 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-03 11:11:06,086 Data Load Data loaded into Db2
+2024-02-03 11:11:08,217 CLOSED 2
+2024-02-03 11:11:20,316 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-03 11:11:23,803 Data Load Data loaded into Db2
+2024-02-03 11:11:24,668 DIM_ACTIVE 2
+2024-02-03 11:16:42,597 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-03 11:16:46,283 Data Load Data loaded into Db2
+2024-02-03 11:16:47,132 DIM_ACTIVE 2
+2024-02-03 12:13:23,220 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-03 12:13:30,716 Data Load Data loaded into Db2
+2024-02-03 12:13:32,449 ACTIVE 2
+2024-02-03 12:14:04,883 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-03 12:14:16,105 Data Load Data loaded into Db2
+2024-02-03 12:14:18,314 CLOSED 2
+2024-02-03 12:14:32,802 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-03 12:14:36,815 Data Load Data loaded into Db2
+2024-02-03 12:14:37,632 DIM_ACTIVE 2
+2024-02-03 12:15:16,247 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-03 12:15:19,432 Data Load Data loaded into Db2
+2024-02-03 12:15:20,262 DIM_ACTIVE 2
+2024-02-03 14:19:53,610 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-03 14:19:59,176 Data Load Data loaded into Db2
+2024-02-03 14:20:00,993 ACTIVE 2
+2024-02-03 14:20:18,864 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-03 14:20:26,985 Data Load Data loaded into Db2
+2024-02-03 14:20:29,160 CLOSED 2
+2024-02-03 14:20:43,632 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-03 14:20:47,629 Data Load Data loaded into Db2
+2024-02-03 14:20:48,658 DIM_ACTIVE 2
+2024-02-03 14:21:31,178 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-03 14:21:34,741 Data Load Data loaded into Db2
+2024-02-03 14:21:35,658 DIM_ACTIVE 2
+2024-02-03 14:36:42,254 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-03 14:36:49,017 Data Load Data loaded into Db2
+2024-02-03 14:36:50,705 ACTIVE 2
+2024-02-03 14:37:13,810 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-03 14:37:23,025 Data Load Data loaded into Db2
+2024-02-03 14:37:25,274 CLOSED 2
+2024-02-03 14:40:58,820 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-03 14:41:02,318 Data Load Data loaded into Db2
+2024-02-03 14:41:03,127 DIM_ACTIVE 2
+2024-02-03 14:45:04,030 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-03 14:45:07,527 Data Load Data loaded into Db2
+2024-02-03 14:45:08,481 DIM_ACTIVE 2
+2024-02-04 15:38:27,186 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-04 15:38:32,549 Data Load Data loaded into Db2
+2024-02-04 15:38:34,120 ACTIVE 2
+2024-02-04 15:42:55,873 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-04 15:43:07,530 Data Load Data loaded into Db2
+2024-02-04 15:43:10,630 CLOSED 2
+2024-02-04 15:43:25,934 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-04 15:43:29,693 Data Load Data loaded into Db2
+2024-02-04 15:43:30,559 DIM_ACTIVE 2
+2024-02-04 15:44:19,545 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-04 15:44:23,440 Data Load Data loaded into Db2
+2024-02-04 15:44:24,285 DIM_ACTIVE 2
+2024-02-04 15:51:26,838 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-04 15:51:32,729 Data Load Data loaded into Db2
+2024-02-04 15:51:34,272 ACTIVE 2
+2024-02-04 15:52:10,718 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-04 15:52:20,350 Data Load Data loaded into Db2
+2024-02-04 15:52:22,473 CLOSED 2
+2024-02-04 15:52:43,971 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-04 15:52:47,448 Data Load Data loaded into Db2
+2024-02-04 15:52:48,330 DIM_ACTIVE 2
+2024-02-04 15:54:05,564 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-04 15:54:09,151 Data Load Data loaded into Db2
+2024-02-04 15:54:09,937 DIM_ACTIVE 2
+2024-02-04 16:09:45,224 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-04 16:09:50,587 Data Load Data loaded into Db2
+2024-02-04 16:09:52,184 ACTIVE 2
+2024-02-04 16:10:29,685 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-04 16:10:37,535 Data Load Data loaded into Db2
+2024-02-04 16:10:39,605 CLOSED 2
+2024-02-04 16:11:00,928 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-04 16:11:04,461 Data Load Data loaded into Db2
+2024-02-04 16:11:05,280 DIM_ACTIVE 2
+2024-02-04 16:12:23,719 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-04 16:12:27,558 Data Load Data loaded into Db2
+2024-02-04 16:12:28,367 DIM_ACTIVE 2
+2024-02-04 16:25:51,091 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-04 16:25:58,756 Data Load Data loaded into Db2
+2024-02-04 16:26:01,011 ACTIVE 2
+2024-02-04 16:26:38,449 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-04 16:26:47,838 Data Load Data loaded into Db2
+2024-02-04 16:26:50,030 CLOSED 2
+2024-02-04 16:27:10,734 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-04 16:27:13,961 Data Load Data loaded into Db2
+2024-02-04 16:27:14,806 DIM_ACTIVE 2
+2024-02-04 16:28:34,382 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-04 16:28:38,045 Data Load Data loaded into Db2
+2024-02-04 16:28:38,852 DIM_ACTIVE 2
+2024-02-04 16:34:26,922 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-04 16:34:32,409 Data Load Data loaded into Db2
+2024-02-04 16:34:34,110 ACTIVE 2
+2024-02-04 16:35:11,282 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-04 16:35:19,221 Data Load Data loaded into Db2
+2024-02-04 16:35:21,404 CLOSED 2
+2024-02-04 16:35:43,499 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-04 16:35:46,971 Data Load Data loaded into Db2
+2024-02-04 16:35:47,821 DIM_ACTIVE 2
+2024-02-04 16:37:22,623 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-04 16:37:25,980 Data Load Data loaded into Db2
+2024-02-04 16:37:26,771 DIM_ACTIVE 2
+2024-02-04 17:18:53,223 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-04 17:18:58,823 Data Load Data loaded into Db2
+2024-02-04 17:19:00,644 ACTIVE 2
+2024-02-04 17:19:23,489 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-04 17:19:37,187 Data Load Data loaded into Db2
+2024-02-04 17:19:39,558 CLOSED 2
+2024-02-04 17:20:01,469 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-04 17:20:04,972 Data Load Data loaded into Db2
+2024-02-04 17:20:05,871 DIM_ACTIVE 2
+2024-02-04 17:36:52,278 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-04 17:36:55,860 Data Load Data loaded into Db2
+2024-02-04 17:36:56,753 DIM_ACTIVE 2
+2024-02-04 21:25:44,960 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-04 21:25:51,780 Data Load Data loaded into Db2
+2024-02-04 21:25:53,835 ACTIVE 2
+2024-02-04 21:26:15,991 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-04 21:26:25,267 Data Load Data loaded into Db2
+2024-02-04 21:26:27,827 CLOSED 2
+2024-02-04 21:26:49,974 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-04 21:26:54,270 Data Load Data loaded into Db2
+2024-02-04 21:26:55,517 DIM_ACTIVE 2
+2024-02-04 21:28:17,218 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-04 21:28:23,301 Data Load Data loaded into Db2
+2024-02-04 21:28:24,234 DIM_ACTIVE 2
+2024-02-04 23:14:05,622 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-04 23:14:12,911 Data Load Data loaded into Db2
+2024-02-04 23:14:14,555 ACTIVE 2
+2024-02-04 23:14:35,809 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-04 23:14:44,545 Data Load Data loaded into Db2
+2024-02-04 23:14:46,735 CLOSED 2
+2024-02-04 23:15:08,801 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-04 23:15:12,355 Data Load Data loaded into Db2
+2024-02-04 23:15:13,185 DIM_ACTIVE 2
+2024-02-04 23:16:49,699 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-04 23:16:53,709 Data Load Data loaded into Db2
+2024-02-04 23:16:54,543 DIM_ACTIVE 2
+2024-02-05 12:20:25,103 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-05 12:20:31,469 Data Load Data loaded into Db2
+2024-02-05 12:20:33,821 ACTIVE 2
+2024-02-05 12:20:58,459 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-05 12:21:07,072 Data Load Data loaded into Db2
+2024-02-05 12:21:10,170 CLOSED 2
+2024-02-05 12:21:52,068 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-05 12:21:55,972 Data Load Data loaded into Db2
+2024-02-05 12:21:57,110 DIM_ACTIVE 2
+2024-02-05 12:26:47,103 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-05 12:26:50,480 Data Load Data loaded into Db2
+2024-02-05 12:26:51,883 DIM_ACTIVE 2
+2024-02-05 13:58:26,667 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-05 13:58:33,383 Data Load Data loaded into Db2
+2024-02-05 13:58:35,607 ACTIVE 2
+2024-02-05 13:59:01,386 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-05 13:59:11,722 Data Load Data loaded into Db2
+2024-02-05 13:59:14,499 CLOSED 2
+2024-02-05 13:59:39,269 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-05 13:59:42,748 Data Load Data loaded into Db2
+2024-02-05 13:59:44,181 DIM_ACTIVE 2
+2024-02-05 14:04:34,180 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-05 14:04:38,377 Data Load Data loaded into Db2
+2024-02-05 14:04:39,868 DIM_ACTIVE 2
+2024-02-06 08:02:44,541 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-06 08:02:51,909 Data Load Data loaded into Db2
+2024-02-06 08:02:53,557 ACTIVE 2
+2024-02-06 08:03:31,796 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-06 08:03:40,965 Data Load Data loaded into Db2
+2024-02-06 08:03:43,115 CLOSED 2
+2024-02-06 08:04:03,907 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-06 08:04:07,091 Data Load Data loaded into Db2
+2024-02-06 08:04:07,895 DIM_ACTIVE 2
+2024-02-06 08:05:40,925 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-06 08:05:44,894 Data Load Data loaded into Db2
+2024-02-06 08:05:45,744 DIM_ACTIVE 2
+2024-02-07 13:37:32,831 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-07 13:37:38,694 Data Load Data loaded into Db2
+2024-02-07 13:37:40,776 ACTIVE 2
+2024-02-07 13:38:05,890 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-07 13:38:15,557 Data Load Data loaded into Db2
+2024-02-07 13:38:18,306 CLOSED 2
+2024-02-07 13:38:59,562 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-07 13:39:03,317 Data Load Data loaded into Db2
+2024-02-07 13:39:04,361 DIM_ACTIVE 2
+2024-02-07 13:40:30,972 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-07 13:40:35,085 Data Load Data loaded into Db2
+2024-02-07 13:40:36,157 DIM_ACTIVE 2
+2024-02-07 17:40:44,459 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-07 17:40:50,956 Data Load Data loaded into Db2
+2024-02-07 17:40:52,589 ACTIVE 2
+2024-02-07 17:47:23,265 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-07 17:47:32,436 Data Load Data loaded into Db2
+2024-02-07 17:47:34,766 CLOSED 2
+2024-02-07 17:48:11,518 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-07 17:48:15,417 Data Load Data loaded into Db2
+2024-02-07 17:48:16,256 DIM_ACTIVE 2
+2024-02-07 17:49:50,525 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-07 17:49:54,912 Data Load Data loaded into Db2
+2024-02-07 17:49:55,744 DIM_ACTIVE 2
+2024-02-07 20:29:51,176 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-07 20:29:57,838 Data Load Data loaded into Db2
+2024-02-07 20:29:59,535 ACTIVE 2
+2024-02-07 20:30:37,350 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-07 20:30:47,949 Data Load Data loaded into Db2
+2024-02-07 20:30:50,459 CLOSED 2
+2024-02-07 20:36:00,305 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-07 20:36:04,011 Data Load Data loaded into Db2
+2024-02-07 20:36:04,906 DIM_ACTIVE 2
+2024-02-07 20:37:39,547 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-07 20:37:43,126 Data Load Data loaded into Db2
+2024-02-07 20:37:43,944 DIM_ACTIVE 2
+2024-02-07 23:06:21,829 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-07 23:06:27,033 Data Load Data loaded into Db2
+2024-02-07 23:06:28,647 ACTIVE 2
+2024-02-07 23:07:06,079 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-07 23:07:15,510 Data Load Data loaded into Db2
+2024-02-07 23:07:17,740 CLOSED 2
+2024-02-07 23:07:38,913 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-07 23:07:42,912 Data Load Data loaded into Db2
+2024-02-07 23:07:43,857 DIM_ACTIVE 2
+2024-02-07 23:12:32,411 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-07 23:12:36,480 Data Load Data loaded into Db2
+2024-02-07 23:12:37,427 DIM_ACTIVE 2
+2024-02-18 17:53:01,531 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-18 17:53:07,849 Data Load Data loaded into Db2
+2024-02-18 17:53:09,569 ACTIVE 2
+2024-02-18 17:53:30,076 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-18 17:53:39,018 Data Load Data loaded into Db2
+2024-02-18 17:53:41,258 CLOSED 2
+2024-02-18 17:57:15,875 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-18 17:57:18,561 Data Load Data loaded into Db2
+2024-02-18 17:57:19,457 DIM_ACTIVE 2
+2024-02-18 17:58:36,746 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-18 17:58:39,465 Data Load Data loaded into Db2
+2024-02-18 17:58:40,345 DIM_ACTIVE 2
+2024-02-20 19:28:26,161 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-20 19:28:32,404 Data Load Data loaded into Db2
+2024-02-20 19:28:34,087 ACTIVE 2
+2024-02-20 19:28:54,670 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-20 19:29:06,224 Data Load Data loaded into Db2
+2024-02-20 19:29:08,717 CLOSED 2
+2024-02-20 19:29:29,685 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-20 19:29:33,311 Data Load Data loaded into Db2
+2024-02-20 19:29:34,397 DIM_ACTIVE 2
+2024-02-20 19:39:25,588 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-20 19:39:29,698 Data Load Data loaded into Db2
+2024-02-20 19:39:30,641 DIM_ACTIVE 2
+2024-02-25 09:19:24,746 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-25 09:19:31,642 Data Load Data loaded into Db2
+2024-02-25 09:19:33,415 ACTIVE 2
+2024-02-25 09:19:55,653 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-25 09:20:06,934 Data Load Data loaded into Db2
+2024-02-25 09:20:09,072 CLOSED 2
+2024-02-25 09:20:29,861 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-25 09:20:33,418 Data Load Data loaded into Db2
+2024-02-25 09:20:34,237 DIM_ACTIVE 2
+2024-02-25 09:21:51,992 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-25 09:21:55,464 Data Load Data loaded into Db2
+2024-02-25 09:21:56,387 DIM_ACTIVE 2
+2024-02-26 18:35:38,530 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-26 18:35:45,258 Data Load Data loaded into Db2
+2024-02-26 18:35:47,164 ACTIVE 2
+2024-02-26 18:36:26,792 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-26 18:36:39,586 Data Load Data loaded into Db2
+2024-02-26 18:36:42,355 CLOSED 2
+2024-02-26 18:37:03,537 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-26 18:37:07,339 Data Load Data loaded into Db2
+2024-02-26 18:37:08,246 DIM_ACTIVE 2
+2024-02-26 18:39:46,054 Load Command CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-26 18:39:48,726 Data Load Data loaded into Db2
+2024-02-26 18:39:49,609 DIM_ACTIVE 2
+2024-02-26 20:01:24,356  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-26 20:01:30,107  | Data Load | Data loaded into Db2
+2024-02-26 20:01:32,148  | ACTIVE | 1
+2024-02-26 20:02:09,987  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-26 20:02:19,014  | Data Load | Data loaded into Db2
+2024-02-26 20:02:21,970  | CLOSED | 1
+2024-02-26 20:02:58,794  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-26 20:03:02,125  | Data Load | Data loaded into Db2
+2024-02-26 20:03:02,981  | DIM_ACTIVE | 1
+2024-02-26 20:04:52,479  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-26 20:04:55,887  | Data Load | Data loaded into Db2
+2024-02-26 20:04:56,768  | DIM_ACTIVE | 1
+2024-02-26 20:12:33,746  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-26 20:12:38,845  | Data Load | Data loaded into Db2
+2024-02-26 20:12:40,240  | ACTIVE | 63439
+2024-02-26 20:13:01,265  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-26 20:13:11,077  | Data Load | Data loaded into Db2
+2024-02-26 20:13:13,131  | CLOSED | 153681
+2024-02-26 20:13:33,675  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-26 20:13:36,076  | Data Load | Data loaded into Db2
+2024-02-26 20:13:36,636  | DIM_ACTIVE | 50
+2024-02-26 20:14:54,080  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-26 20:14:57,276  | Data Load | Data loaded into Db2
+2024-02-26 20:14:57,881  | DIM_ACTIVE | 75
+2024-02-27 00:20:33,410  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-27 00:20:38,986  | Data Load | Data loaded into Db2
+2024-02-27 00:20:40,514  | ACTIVE | 63439
+2024-02-27 00:21:21,062  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-27 00:21:30,380  | Data Load | Data loaded into Db2
+2024-02-27 00:21:32,370  | CLOSED | 153681
+2024-02-27 00:22:09,499  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-27 00:22:13,171  | Data Load | Data loaded into Db2
+2024-02-27 00:22:13,728  | DIM_ACTIVE | 50
+2024-02-27 00:24:02,216  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-27 00:24:05,713  | Data Load | Data loaded into Db2
+2024-02-27 00:24:06,321  | DIM_ACTIVE | 75
+2024-02-28 09:52:30,846  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-28 09:52:38,857  | Data Load | Data loaded into Db2
+2024-02-28 09:52:40,258  | ACTIVE | 63439
+2024-02-28 09:53:03,991  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-28 09:53:15,532  | Data Load | Data loaded into Db2
+2024-02-28 09:53:17,681  | CLOSED | 153681
+2024-02-28 09:53:42,087  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-28 09:53:47,442  | Data Load | Data loaded into Db2
+2024-02-28 09:53:48,314  | DIM_ACTIVE | 50
+2024-02-28 09:55:19,944  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-28 09:55:24,393  | Data Load | Data loaded into Db2
+2024-02-28 09:55:25,272  | DIM_ACTIVE | 75
+2024-02-29 08:19:50,672  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-02-29 08:19:57,589  | Data Load | Data loaded into Db2
+2024-02-29 08:19:59,677  | ACTIVE | 63439
+2024-02-29 08:21:25,224  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-02-29 08:21:34,387  | Data Load | Data loaded into Db2
+2024-02-29 08:21:36,982  | CLOSED | 153681
+2024-02-29 08:21:57,874  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-29 08:22:01,682  | Data Load | Data loaded into Db2
+2024-02-29 08:22:02,229  | DIM_ACTIVE | 50
+2024-02-29 08:23:20,809  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-02-29 08:23:24,477  | Data Load | Data loaded into Db2
+2024-02-29 08:23:25,100  | DIM_ACTIVE | 75
+2024-03-10 10:00:34,988  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-03-10 10:00:42,065  | Data Load | Data loaded into Db2
+2024-03-10 10:00:43,544  | ACTIVE | 63439
+2024-03-10 10:01:53,896  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-03-10 10:02:03,636  | Data Load | Data loaded into Db2
+2024-03-10 10:02:05,596  | CLOSED | 153681
+2024-03-10 10:02:27,296  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-03-10 10:02:30,730  | Data Load | Data loaded into Db2
+2024-03-10 10:02:31,389  | DIM_ACTIVE | 50
+2024-03-10 10:03:50,433  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-03-10 10:03:54,425  | Data Load | Data loaded into Db2
+2024-03-10 10:03:55,001  | DIM_ACTIVE | 75
+2024-07-25 10:26:37,625  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-07-25 10:26:45,632  | Data Load | Data loaded into Db2
+2024-07-25 10:26:47,151  | ACTIVE | 63439
+2024-07-25 10:27:16,741  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-07-25 10:27:29,348  | Data Load | Data loaded into Db2
+2024-07-25 10:27:31,367  | CLOSED | 153681
+2024-07-25 10:27:58,247  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-07-25 10:28:02,289  | Data Load | Data loaded into Db2
+2024-07-25 10:28:03,190  | DIM_ACTIVE | 50
+2024-07-25 10:29:26,364  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-07-25 10:29:30,352  | Data Load | Data loaded into Db2
+2024-07-25 10:29:31,130  | DIM_ACTIVE | 75
+2024-07-27 19:22:52,811  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::ACTIVE_STAGE.CSV" OF DEL REPLACE INTO ACTIVE')
+2024-07-27 19:22:59,902  | Data Load | Data loaded into Db2
+2024-07-27 19:23:00,743  | ACTIVE | 63439
+2024-07-27 19:23:38,312  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-stage-anushka::CLOSED_STAGE.CSV" OF DEL REPLACE INTO CLOSED')
+2024-07-27 19:23:49,112  | Data Load | Data loaded into Db2
+2024-07-27 19:23:50,048  | CLOSED | 153681
+2024-07-27 19:24:11,280  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-07-27 19:24:15,189  | Data Load | Data loaded into Db2
+2024-07-27 19:24:15,776  | DIM_ACTIVE | 50
+2024-07-27 19:25:33,515  | Load Command | CALL SYSPROC.ADMIN_CMD('LOAD FROM "S3::s3.us-south.cloud-object-storage.appdomain.cloud::7917e4f6dd1e498491448e1bcd3e53ed::ee85cfa0567dcc5e3f1af159923972165ad39788c3e5af95::grp-transform-anushka::DIM_ACTIVE.CSV" OF DEL REPLACE INTO DIM_ACTIVE')
+2024-07-27 19:25:37,481  | Data Load | Data loaded into Db2
+2024-07-27 19:25:38,095  | DIM_ACTIVE | 75
