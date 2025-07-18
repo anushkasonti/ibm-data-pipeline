@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # ibm-data-pipeline
 =======
 **Project Overview:**
+=======
+**Project Overview:** 
+>>>>>>> 7e76f920dcc8c80795c581e81b40cddf14e005d4
 This project is the end-to-end process of data ingestion, transformation, and loading into IBM Db2 with a Change Data Capture (CDC) process to manage regular updates.
 
 **Features:**
@@ -11,4 +15,7 @@ This project is the end-to-end process of data ingestion, transformation, and lo
 - CDC: Set up a process to efficiently manage regular data updates.
 
 **Technologies Used:** IBM Cloud, IBM Db2, IBM Data Engine, IBM COS SDK, SQL, Python, JDBC (for connecting to Db2)
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> 7e76f920dcc8c80795c581e81b40cddf14e005d4
